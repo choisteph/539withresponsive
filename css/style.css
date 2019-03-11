@@ -209,7 +209,7 @@ iframe{
 	}
 }
 
-@media screen and (min-width:960px){
+@media only screen and (min-width:960px){
   .header li{
     display: inline;
     position: relative;
@@ -261,7 +261,7 @@ iframe{
 }
 
 
-@media screen and (min-width:1200px){
+@media only screen and (min-width:1200px){
   .header li{
     display: inline;
     position: relative;
